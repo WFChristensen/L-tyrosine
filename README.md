@@ -1,5 +1,5 @@
 # L-tyrosine
-Data for "L-tyrosine protects cognition in a preclinical model of synucleinopathy"
+Data for "L-tyrosine protects cognition in a preclinical model of synucleinopathy" 
 
 Files: 
 - LtyrosineCognitive.xlsx : DRT scores for marmosets
